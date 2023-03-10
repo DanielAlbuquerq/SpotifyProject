@@ -1,7 +1,7 @@
 # SpotifyProject
-## Suggestion to Spotify - UX to deliver a successful experience.
+### Suggestion to Spotify - UX to deliver a successful experience.
 
-### See this project: https://danielalbuquerq.github.io/SpotifyProject/
+## See this project: https://danielalbuquerq.github.io/SpotifyProject/
 
 
 Just Short Recordings of the process :smile:
