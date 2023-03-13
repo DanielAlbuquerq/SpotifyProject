@@ -30,7 +30,7 @@ body {
   height: 38rem;
 
 }
-.scroll {
+.arrow {
   position: fixed;
   display: flex;
   justify-content: center;
@@ -38,18 +38,17 @@ body {
   top: 0;
   left: 0;
   right: 0.5rem;
-  padding-left: 50px;
+  padding-left: 44.5%;
 }
-.scroll > .arrowcircle{
+.arrowcircle{
   display:none;
 }
 
 @media (max-width: 600px) {
-    .scroll > 
     .arrow {
       display:none;
     }
-    .scroll > .arrowcircle {
+    .arrowcircle {
       position: fixed;
       display: flex;
       justify-content: center;
@@ -169,7 +168,7 @@ body {
     opacity: 1;
     border-radius: 0;
   }
-}
+
 
   100% {
     transform: translateY(-1000px) rotate(720deg);
@@ -177,4 +176,4 @@ body {
     border-radius: 50%;
   }
 
-
+}
